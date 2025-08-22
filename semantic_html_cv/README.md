@@ -20,12 +20,4 @@ It demonstrates the use of **semantic**, and **structural** HTML tags. It's idea
 - `index.html` — the main HTML CV file
 - No external assets or dependencies
 
-## Usage
 
-1. Clone or download the repository.
-2. Open `index.html` in any modern web browser.
-
-```bash
-git clone https://github.com/alexcalaca/semantic-html-cv.git
-cd semantic-html-cv
-open index.html  # Or just double-click it
